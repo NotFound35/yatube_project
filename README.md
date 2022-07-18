@@ -15,7 +15,8 @@ Django 2.2.19
 - В папке manage.py выполнить команду:
 ``` python manage.py runserver ```
 ### Автор:
-Сашка
+Сашка Романов
+
 
 
 
